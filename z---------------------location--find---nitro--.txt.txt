@@ -1,1 +1,2 @@
 "D:\SIP-PYTHON\django-3rd-mth-\django-next-js-airbnb-basic-4parts"
+D:\SIP-PYTHON\django-3rd-mth-\django-next-js-airbnb-basic-4parts\backend-basic\z---------------------location--find---nitro--backend-.txt
